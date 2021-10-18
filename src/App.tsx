@@ -1,9 +1,11 @@
 import React from 'react';
-import Todos from './containers/TodosContainer';
+import CounterContainer from './containers/CounterContainer';
+// import Todos from './containers/TodosContainer';
+// <Todos />
 
 function App() {
   return (
-    <Todos />
+    <CounterContainer />
   );
 }
 
