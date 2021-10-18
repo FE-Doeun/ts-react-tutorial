@@ -1,0 +1,6 @@
+{
+    "prettier.tabWidth": 2,
+    "prettier.proseWrap":"preserve",
+    "prettier.printWidth":120,
+    "prettier.parser": "typescript"
+  }
